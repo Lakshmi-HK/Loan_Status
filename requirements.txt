@@ -1,0 +1,7 @@
+# local package
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+
